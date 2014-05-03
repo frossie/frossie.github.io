@@ -1,2 +1,9 @@
-Test
-====
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
+{% include JB/setup %}
+
+
+# Foo test foo
