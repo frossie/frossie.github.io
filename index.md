@@ -44,3 +44,9 @@ This theme is still unfinished. If you'd like to be added as a contributor, [ple
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
+# About
+
+Pages thanks to Github Pages, Jekyll, and Jekyll Bootstrap
+
+Theme from [Tom Warner](https://github.com/jekyllbootstrap/theme-tom.git)
+
