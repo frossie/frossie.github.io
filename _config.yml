@@ -7,7 +7,7 @@ pygments: true
 
 
 markdown: redcarpet
-# FE: need hard_wrap to obey newline as <br>
+# FE: need hard_wrap to obey newline as <br> like in github-flavoured markdown
 redcarpet:
   extensions: ["hard_wrap"]
 
