@@ -3,12 +3,14 @@ layout: page
 title: Publications
 ---
 
+# Academic Publications
+
 *No. of articles:* 68
 
 ## 2014 (4 articles)
 
 * [Lessons learned from an observatory/data center partnership: The JCMT Science Archive](https://github.com/frossie/aandc-jsa)
-  _Economou, F., Gaudet, S., Jenness, T., Redman, R. O., Goliath, S., Dowler, P., Scahde, D. &amp; Chrysostomou, A._
+  _Economou, F., Gaudet, S., Jenness, T., Redman, R. O., Goliath, S., Dowler, P., Schade, D. &amp; Chrysostomou, A._
   Astronomy &amp; Computing, in preparation
 
 * [The Future of Astronomical Data Formats II. Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
@@ -406,9 +408,43 @@ Total number of citations: 93
   _Economou, Frossie, Lawrence, Andy, Ward, Martin J. &amp; Blanco, Philip R._
   MNRAS, 272, 5  (23 refereed citations) (24 total citations)
 
-
-
 Total number of refereed citations: 23
 
 Total number of citations: 24
 
+
+# Non-Academic Press
+
+<h2>Commercial Press:</h2>
+
+## Perl
+
+I have written the following articles that have been published in
+computer magazines. These were subsequently reprinted in the books
+[Computer Science and Perl Programming](http://www.oreilly.com/catalog/tpj1/index.html)
+and
+[Games, Diversions and Perl Culture](http://www.oreilly.com/catalog/tpj3/)
+published by O'Reilly.
+
+* Sorting and Hashes
+  Economou, F
+  Perl Journal vol. 2 no.3 (1997)
+
+* Short Circuits
+  _Economou, F_
+  Perl Journal vol. 2 no.2 (1997)
+
+* The Perl Data Language, Glazebrook & Economou
+  Dr Dobbs Journal Fall 97 Carreers issue
+
+</ul>
+    <p>
+
+## e-Star
+
+Part of our work with the e-Star project was covered by the general
+press, including the New Scientist, BBC News Online,
+[Wired](http://archive.wired.com/science/space/news/2004/09/65002?currentPage=all) and
+the German magazine FOCUS.
+
+    <p>
