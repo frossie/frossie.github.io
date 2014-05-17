@@ -3,13 +3,26 @@ layout: page
 title: Publications
 ---
 
-*No. of articles:*64
+*No. of articles:* 68
 
-## 2014 (3 articles)
+## 2014 (4 articles)
 
-* [The Future of Astronomical Data Formats II. Learning from 25 years of the extensible \emph{N}-Dimensional Data Format]()
-  _Jenness, T., &amp; 10 others_
-  
+* [Lessons learned from an observatory/data center partnership: The JCMT Science Archive](https://github.com/frossie/aandc-jsa)
+  _Economou, F., Gaudet, S., Jenness, T., Redman, R. O., Goliath, S., Dowler, P., Scahde, D. &amp; Chrysostomou, A._
+  Astronomy &amp; Computing, in preparation
+
+* [The Future of Astronomical Data Formats II. Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
+  _Jenness, T., &amp; 10 authors_
+  Astronomy &amp; Computing, submitted
+
+* [The Future of Astronomical Data Formats I. Learning from FITS](https://github.com/timj/aandc-fits/releases/download/submitted/acfits.pdf)
+  _Thomas, B., &amp; 37 authors_
+  Astronomy &amp; Computing, submitted
+
+* [Advantages of extensible self-described data formats: Lessons learned from NDF](https://github.com/timj/adass23-ndf-economou/releases/download/submitted/P91.pdf)
+  _Economou, F., Jenness, T., Currie, Malcolm J., &amp; Berry, David S._
+  ADASS XXIII, ASP, in press
+
 
 ## 2013 (4 articles)
 
