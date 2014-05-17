@@ -44,8 +44,6 @@ title: Publications
   _Jenness, Tim, Economou, Frossie, Cavanagh, Brad, Currie, Malcolm &amp; Gibb, Andy_
   Astrophysics Source Code Library, record ascl:1310.001
 
-
-
 Total number of refereed citations: 37
 
 Total number of citations: 52
@@ -415,8 +413,6 @@ Total number of citations: 24
 
 # Non-Academic Press
 
-<h2>Commercial Press:</h2>
-
 ## Perl
 
 I have written the following articles that have been published in
@@ -435,7 +431,7 @@ published by O'Reilly.
   Perl Journal vol. 2 no.2 (1997)
 
 * The Perl Data Language, Glazebrook & Economou
-  Dr Dobbs Journal Fall 97 Carreers issue
+  Dr Dobbs Journal Fall 97 Careers issue
 
 </ul>
     <p>
