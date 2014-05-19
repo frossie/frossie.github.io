@@ -433,14 +433,133 @@ published by O'Reilly.
 * The Perl Data Language, Glazebrook & Economou
   Dr Dobbs Journal Fall 97 Careers issue
 
-</ul>
-    <p>
 
 ## e-Star
 
 Part of our work with the e-Star project was covered by the general
 press, including the New Scientist, BBC News Online,
-[Wired](http://archive.wired.com/science/space/news/2004/09/65002?currentPage=all) and
-the German magazine FOCUS.
+[Wired](http://archive.wired.com/science/space/news/2004/09/65002?currentPage=all) and the German magazine FOCUS.
 
-    <p>
+
+# Technical Documentation
+
+## Starlink User Notes (Package documentation)
+
+* IRCAMDR -- IRCAM3 Data Reduction Software
+  _Aspin, C., Emerson, J.P., Currie, M.J., Economou, F._
+  Starlink User Note 41, 1996
+
+* STARPERL -- Starlink Perl Modules
+  _Jenness, T., Economou, F._
+  Starlink User Note 228, 2003
+
+* [ORAC-DR: Overview and General Introduction](http://www.starlink.ac.uk/docs/sun230.htx/sun230.html#xref_)
+  _Economou, F., Jenness, T., Currie, M.J., Adamson, A., Allan, A., Cavanagh, B._
+  Starlink User Note 230, 2004
+
+* [ORAC-DR - SCUBA Pipeline Data Reduction](http://www.starlink.ac.uk/docs/sun231.htx/sun231.html#xref_)
+  _Jenness, T., Economou, F._
+  Starlink User Note 231, 2004
+
+* [PICARD - A Pipeline for Combining and Analyzing Reduced Data](http://www.starlink.ac.uk/docs/sun285.htx/sun285.html#xref_)
+  _Gibb, A., Jenness, T., Economou, F._
+  Starlink User Note 285, 2013
+
+
+## Technical Documentation
+
+* Implementing UNIX Starlink software changes at JAC
+  _Jenness, T., Economou, F._
+  Joint Astronomy Centre System Note 24, 1996
+
+* User Software on JAC Satellite Clusters
+  _Economou, F., Jenness, T._
+  Joint Astronomy Centre System Note 26, 1996
+
+* JAC WWW Style Guide
+  _Economou, F._
+  Joint Astronomy Centre User Note 9, 1996
+
+* [The OMP System Software Architecture Overview](http://docs.jach.hawaii.edu/JAC/OMP/SN/001/architecture.pdf)
+  _Economou, F., Jenness, T., Hirst, P., Rippa, M., Delorey, K., Isaak, K._
+  Observation Management Project System Note 1, 2001
+
+* [The OMP Observing Tool requirements](http://docs.jach.hawaii.edu/JAC/OMP/SN/002/omp_sn_002.pdf)
+  _Jenness, T., Economou F., Hirst, P., Adamson, A._
+  Observation Management Project System Note 2, 2001
+
+* [The MSB Server and Database](http://docs.jach.hawaii.edu/JAC/OMP/SN/003/omp_sn_003.pdf)
+  _Jenness, T., Economou, F., Hirst, P., Archibald, E.N., Tilanus, R.P.J._
+  Observation Management Project System Note 3, 2001
+
+* [The Query Tool](http://docs.jach.hawaii.edu/JAC/OMP/SN/004/omp_sn_004.pdf)
+  _Economou, F., Rippa, M., Jenness, T._
+  Observation Management Project System Note 4, 2001
+
+* [The Project Database](http://docs.jach.hawaii.edu/JAC/OMP/SN/005/omp_sn_005.pdf)
+  _Economou, F., Jenness, T., Tilanus, R._
+  Observation Management Project System Note 5, 2001
+
+* [The Feedback Tool and Helper Applications](http://docs.jach.hawaii.edu/JAC/OMP/SN/006/feedback.pdf)
+  _Economou, F., Delorey, K., Jenness, T., Tilanus, R._
+  Observation Management Project System Note 6, 2001
+
+* [OT/OMP/Translator Interface](http://docs.jach.hawaii.edu/JCMT/OCS/ICD/003/ocs_icd_003.ps)
+  _Jenness, T., Economou, F._
+  JCMT Observatory Control System Interface Control Document 3, 2001
+
+* [ACSIS File Format Interface Control Document](http://docs.jach.hawaii.edu/JACdocs/JCMT/OCS/ICD/022/ocs_icd_022.pdf)
+  _Jenness, T., Leech, J., de Witt, S., Economou, F._
+  JCMT Observatory Control System ICD 22, 2007
+
+* [Data Reduction timing tests](http://docs.jach.hawaii.edu/JCMT/tr/001/054/tr00154.ps)
+  _Jenness, T., Economou, F._
+  JCMT Technical Report 001/54, 1999
+
+* [Correcting curvature in CGS4 spectra]()
+  _Economou, F._
+  UKIRT Observer Note 21, 
+
+* [Data Format Specification for UKIRT instruments](http://docs.jach.hawaii.edu/UKIRT/USN/034/usn34.ps)
+  _Economou, F._
+  UKIRT System Note 34, 1999
+
+
+# Newsletter articles
+
+* S2SRO Observations of the Rosette Molecular Cloud
+  _Di Francesco, J., Sadavoy, S., Schneider, N., Bontemps, S., Motte, F., Economou, F., Hennemann, M._
+  JCMT Newsletter 33, 2010, 6
+
+* JCMT Science Archive (JSA) Update
+  _Economou, F._
+  JCMT Newsletter 31, 2009, 4
+
+* Data Archive at CADC
+  _Economou, F._
+  JCMT Newsletter 26, 2007, 4
+
+* The OMP has been fully deployed
+  _Economou, F._
+  JCMT Newsletter 21, 2003
+
+* The Observation Management Project (OMP) - Towards a Flexible UKIRT
+  _Economou, F., Adamson, A._
+  UKIRT Newsletter 10, 2002, 10
+
+* ORAC is coming!
+  _Economou, F._
+  UKIRT Newsletter 6, 2000, 10
+
+* The UKIRT Mini Wide-Field Survey
+  _Ryder, S., Economou, F., Currie, M._
+  UKIRT Newsletter 4, 1999, 14
+
+* The UKIRT Observatory Reduction and Acquisition Control (ORAC) Project
+  _Wright, G., Bridger, A., Economou, F., Currie, M._
+  UKIRT Newsletter 2, 1998, 13
+
+* Detection of H&alpha; in z=1 Galaxies
+  _Blake, C., Glazebrook, K., Economou, F._
+  UKIRT Newsletter 2, 1998, 5
+
