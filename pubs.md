@@ -413,6 +413,15 @@ Total number of citations: 24
 
 # Non-Academic Press
 
+
+## e-Star
+
+Part of our work with the e-Star project was covered by the general
+press, including the New Scientist, BBC News Online,
+[Wired](http://archive.wired.com/science/space/news/2004/09/65002?currentPage=all) and the German magazine FOCUS.
+
+
+
 ## Perl
 
 I have written the following articles that have been published in
@@ -432,13 +441,6 @@ published by O'Reilly.
 
 * The Perl Data Language, Glazebrook & Economou
   Dr Dobbs Journal Fall 97 Careers issue
-
-
-## e-Star
-
-Part of our work with the e-Star project was covered by the general
-press, including the New Scientist, BBC News Online,
-[Wired](http://archive.wired.com/science/space/news/2004/09/65002?currentPage=all) and the German magazine FOCUS.
 
 
 # Technical Documentation
