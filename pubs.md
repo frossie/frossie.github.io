@@ -7,7 +7,7 @@ title: Publications
 
 *No. of articles:* 68
 
-## 2014 (4 articles)
+## 2014 (8 articles)
 
 
 * Your data is your dogfood: DevOps in the astronomical observatory
