@@ -9,6 +9,23 @@ title: Publications
 
 ## 2014 (4 articles)
 
+
+* Your data is your dogfood: DevOps in the astronomical observatory
+  _Economou, F., Hoblitt, J.C., Norris, P._
+  Proc. SPIE 9152, 9152-38, in press _(Invited Paper)_
+
+* The NOAO data laboratory: a conceptual overview
+  _Fitzpatrick, M., Economou, F., Stobie, E.B., Thomas,B., Olsen, K., Beers, T.C., Dickinson, M._
+  Proc. SPIE 9149, 9149-65, in press
+
+* Setting the standard: 25 years of operating the JCMT
+  _Dempsey, J. &amp; 11 authors_
+  Proc. SPIE 9149, 9149-51, in press
+
+* [Advanced data products for the JCMT Science Archive](https://github.com/grahambell/spie-2014-jsa-adp)
+  _Bell, G. &amp; 9 authors_
+  Proc. SPIE 9152, 9152-93, in press
+
 * [Lessons learned from an observatory/data center partnership: The JCMT Science Archive](https://github.com/frossie/aandc-jsa)
   _Economou, F., Gaudet, S., Jenness, T., Redman, R. O., Goliath, S., Dowler, P., Schade, D. &amp; Chrysostomou, A._
   Astronomy &amp; Computing, in preparation
