@@ -191,8 +191,6 @@ Total number of citations: 96
   _de Witt, S., Jenness, T., Economou, F. &amp; Folger, M._
   ASPC, 347, 389  (1 total citations)
 
-
-
 Total number of refereed citations: 3
 
 Total number of citations: 9
@@ -223,8 +221,6 @@ Total number of citations: 9
   _Jenness, T., Economou, F., Scott, D., Kelly, B. D. &amp; Holland, W. S._
   ASPC, 314, 428  (2 total citations)
 
-
-
 Total number of refereed citations: 11
 
 Total number of citations: 27
@@ -238,8 +234,6 @@ Total number of citations: 27
 * [Is there a disc in the superluminal quasars?](http://adsabs.harvard.edu/abs/2003MNRAS.340.1298R)
   _Rokaki, E., Lawrence, A., Economou, F. &amp; Mastichiadis, A._
   MNRAS, 340, 1298  (22 refereed citations) (30 total citations)
-
-
 
 Total number of refereed citations: 46
 
@@ -484,8 +478,16 @@ published by O'Reilly.
   _Gibb, A., Jenness, T., Economou, F._
   Starlink User Note 285, 2013
 
+## Miscellaneous Software/Project Documentation
 
-## Technical Documentation
+
+* [Advanced Data Products from the JCMT Science Archive: Requirements Document](http://www.jach.hawaii.edu/JCMT/surveys/docs/ADP_reqs.pdf)
+  _Chrysostomou, A.; Economou, F._
+  JLS/SRE/001, 2007
+
+* [HARP data acceptance criteria for the JCMT Legacy Surveys](http://www.jach.hawaii.edu/JCMT/surveys/docs/QA_v1.0.pdf)
+  _Hatchell, J.; Wilson, C.; Buckle, J.; Chrysostomou, A.; Tilanus, R.; Economou, F.; Jenness, T.; Cavanagh, B._
+  2008
 
 * Implementing UNIX Starlink software changes at JAC
   _Jenness, T., Economou, F._
