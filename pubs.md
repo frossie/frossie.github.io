@@ -5,42 +5,53 @@ title: Publications
 
 # Academic Publications
 
-*No. of articles:* 68
+*No. of articles:* 74
 
-## 2014 (8 articles)
+## 2015
+
+* [Learning from FITS: Limitations in use in modern astronomical research](http://dx.doi.org/10.1016/j.ascom.2015.01.009)
+  _Thomas, B.; Jenness, T.; Economou, F. &amp; 35 co-authors_
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1502.00996](http://arxiv.org/abs/1502.00996))
+
+* [Learning from 25 years of the extensible _N_-Dimensional Data Format](http://dx.doi.org/10.1016/j.ascom.2014.11.001)
+  _Jenness, T.; Berry, D.S.; Currie, M.J. &amp; 8 co-authors_
+  Astronomy &amp; Computing, 2015, in press (special issue on data formats) ([arXiv:1410.7513](http://arxiv.org/abs/1410.7513))
+
+* [Observatory/data centre partnerships and the VO-centric archive: The JCMT Science Archive experience](http://dx.doi.org/10.1016/j.ascom.2014.12.005)
+  _Economou, F.; Gaudet, S.; Jenness, T. &amp; 10 co-authors_
+  Astronomy &amp; Computing, 2015, 11 (B), 161 (special issue on the Virtual Observatory: II) ([arXiv:1412.4399](http://arxiv.org/abs/1412.4399))
+
+* [ORAC-DR: A generic data reduction pipeline infrastructure](http://adsabs.harvard.edu/abs/2015A%26C.....9...40J)
+  _Jenness, T.; Economou, F._
+  Astronomy &amp; Computing, 2015, 9, 40
 
 
-* Your data is your dogfood: DevOps in the astronomical observatory
+## 2014 (6 articles)
+
+
+* [Your data is your dogfood: DevOps in the astronomical observatory](http://arxiv.org/abs/1407.6463)
   _Economou, F., Hoblitt, J.C., Norris, P._
-  Proc. SPIE 9152, 9152-38, in press _(Invited Paper)_
+  Proc. SPIE 9152, [arXiv:1407.6463](http://arxiv.org/abs/1407.6463),  _(Invited Paper)_
 
-* The NOAO data laboratory: a conceptual overview
-  _Fitzpatrick, M., Economou, F., Stobie, E.B., Thomas,B., Olsen, K., Beers, T.C., Dickinson, M._
+* [The NOAO data laboratory: a conceptual overview](http://adsabs.harvard.edu/abs/2014SPIE.9149E..1TF)
+  _Fitzpatrick, M.; Olsen, K.; Economou, F., &amp; 10 co-authors_
   Proc. SPIE 9149, 9149-65, in press
 
-* Setting the standard: 25 years of operating the JCMT
-  _Dempsey, J. &amp; 11 authors_
-  Proc. SPIE 9149, 9149-51, in press
+* [Setting the standard: 25 years of operating the JCMT](http://adsabs.harvard.edu/abs/2014SPIE.9149E..1FD)
+  _Dempsey, J. T.; Bell, G.S.; Chrysostomou, A. &amp; 9 co-authors_
+  Proc. SPIE, 9149, 91491F
 
-* [Advanced data products for the JCMT Science Archive](https://github.com/grahambell/spie-2014-jsa-adp)
-  _Bell, G. &amp; 9 authors_
-  Proc. SPIE 9152, 9152-93, in press
+* [Advanced data products for the JCMT Science Archive](http://adsabs.harvard.edu/abs/2014SPIE.9152E..2JB)
+  _Bell, G.S.; Graves, S.F.; Currie, M.J. &amp; 7 co-authors_
+  Proc. SPIE, 9152, 91522J
 
-* [Lessons learned from an observatory/data center partnership: The JCMT Science Archive](https://github.com/frossie/aandc-jsa)
-  _Economou, F., Gaudet, S., Jenness, T., Redman, R. O., Goliath, S., Dowler, P., Schade, D. &amp; Chrysostomou, A._
-  Astronomy &amp; Computing, in preparation
+* [Significant Problems in FITS Limit Its Use in Modern Astronomical Research](http://adsabs.harvard.edu/abs/2014ASPC..485..351T)
+  _Thomas, B.; Jenness, T.; Economou, F. &amp; 12 co-authors_
+  ASP Conf. Ser., 485, 351
 
-* [The Future of Astronomical Data Formats II. Learning from 25 years of the extensible _N_-Dimensional Data Format](https://github.com/Starlink/aandc-ndf/releases/download/v1.00-submitted/acndf.pdf)
-  _Jenness, T., &amp; 10 authors_
-  Astronomy &amp; Computing, submitted
-
-* [The Future of Astronomical Data Formats I. Learning from FITS](https://github.com/timj/aandc-fits/releases/download/submitted/acfits.pdf)
-  _Thomas, B., &amp; 37 authors_
-  Astronomy &amp; Computing, submitted
-
-* [Advantages of extensible self-described data formats: Lessons learned from NDF](https://github.com/timj/adass23-ndf-economou/releases/download/submitted/P91.pdf)
-  _Economou, F., Jenness, T., Currie, Malcolm J., &amp; Berry, David S._
-  ADASS XXIII, ASP, in press
+* [Advantages of Extensible Self-described Data Formats: Lessons Learned from NDF](http://adsabs.harvard.edu/abs/2014ASPC..485..355E)
+  _Economou, F.; Jenness, T.; Currie, M. J. &amp; Berry, D. S._
+  ASP Conf. Ser., 485, 355
 
 
 ## 2013 (4 articles)
